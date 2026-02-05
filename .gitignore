@@ -1,0 +1,36 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build.log
+.incremental
+.polyglot.build.properties
+
+# Allure and Reporting
+allure-results/
+.allure/
+allure-report/
+playwright-report/
+test-results/
+
+# IDEs
+.idea/
+*.iml
+*.iws
+.settings/
+.project
+.classpath
+.factorypath
+.vscode/
+
+# Trace and log files
+*.zip
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

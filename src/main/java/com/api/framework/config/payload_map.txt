@@ -1,0 +1,2 @@
+addPet=src/main/java/com/api/framework/config/payloads/pet_payload.txt
+petstore=src/main/java/com/api/framework/config/payloads/pet_payload_petstore.txt
